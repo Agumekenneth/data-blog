@@ -5,7 +5,7 @@ export default function Home(){
   let username = 'John Doe'
   let username2 = 'jane'
 return (
-<div style={{color: "#0f0b14",backgroundColor: "#bec1f7", border: "10px solid black",padding:"10px",margin:"50px"}}>
+<div style={{color: "#0f0b14",backgroundColor: "#bec1f7", border: "10px solid black",padding:"10px",margin:"50px",borderRadius:"30px"}}>
   <h1>DATA SCIENCE FOR AFRICA </h1>
   <h2>An intiative for 2025</h2>
   <p>Welcome to our website</p>
